@@ -5,6 +5,8 @@ The report is of this model is here.</h2>
 
 <a href="https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Report.pdf">Report of Model </a>
 
+The Research Paper of Project <a href=https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/DistilBERT_Paper.pdf>Paper</a>
+
 <h3>In this DistilBert model the Question and Answer Sequence is like :- </h3>
   <img src=https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Images/DistilBert_Question%26Answer_Model.png>
   
