@@ -6,7 +6,7 @@ The report is of this model is here.</h2>
 <a href="https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Report.pdf">Report of Model </a>
 
 <h3>In this DistilBert model the Question and Answer Sequence is like :- </h3>
-  <img src="Images/DistilBert_Question&Answer_Model.png">
+  <img src=https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Images/DistilBert_Question%26Answer_Model.png>
   
   
 <h3>After all this question and answer sequences we were looking into the visuallization part of the training and testing of the model which looks like this</h3>
@@ -14,6 +14,6 @@ The report is of this model is here.</h2>
 
 
 <h3>After all this model visuallization we got into the uses of the gpu system uses and other details which were like :- </h3>
-  <img src="Images/System_Details.png">
+  <img src=https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Images/System_Details.png>
 
 Using wandb.ai library
