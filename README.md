@@ -10,7 +10,7 @@ The report is of this model is here.</h2>
   
   
 <h3>After all this question and answer sequences we were looking into the visuallization part of the training and testing of the model which looks like this</h3>
-  <img src="Images/Chart_Details.png">
+  <img src=https://github.com/RishavMishraRM/DistilBert_QuestionAnswer_Model/blob/main/Images/Chart_Details.png>
 
 
 <h3>After all this model visuallization we got into the uses of the gpu system uses and other details which were like :- </h3>
